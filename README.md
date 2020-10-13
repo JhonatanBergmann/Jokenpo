@@ -2,14 +2,14 @@
   <img src="/android/app/src/main/res/drawable-xxxhdpi/icon.png" width="200" height="200" alt="icon" >
   <br/>
   Jokenpo
-  <br>
+  <p align="center">Pedra, Papel ou Tesoura</p>
 </h1>
 
-<p align="center">Pedra, Papel ou Tesoura</p>
+
 
 ## 📅 Sobre
 
-Pedra, papel e tesoura, também chamado em algumas regiões do Brasil de jokempô (do japonês じゃんけんぽん, jankenpon), essa versão é um jogo mobil, onde você joga contra o algoritmo.
+Pedra, papel e tesoura, do japonês じゃんけんぽん, jankenpon, essa versão é um jogo mobile, onde você joga contra o algoritmo.
 
 <p align="center">
   <img src="assets/imgs/gif.gif" alt="Demo" >
