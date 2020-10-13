@@ -7,8 +7,6 @@
 
 <p align="center">Pedra, Papel ou Tesoura</p>
 
-<br>
-
 ## 📅 Sobre
 
 Pedra, papel e tesoura, também chamado em algumas regiões do Brasil de jokempô (do japonês じゃんけんぽん, jankenpon), essa versão é um jogo mobil, onde você joga contra o algoritmo.
