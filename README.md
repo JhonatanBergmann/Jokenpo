@@ -2,10 +2,7 @@
   <img src="/android/app/src/main/res/drawable-xxxhdpi/icon.png" width="200" height="200" alt="icon" >
   <br/>
   Jokenpo
-  <p align="center">Pedra, Papel ou Tesoura</p>
 </h1>
-
-
 
 ## 📅 Sobre
 
