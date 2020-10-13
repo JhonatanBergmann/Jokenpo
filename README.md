@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="/android/app/src/main/res/drawable-xxxhdpi/icon.png" width="200" height="200" alt="icon" >
-  <br/
+  <br/>
   Jokenpo
   <br>
 </h1>
