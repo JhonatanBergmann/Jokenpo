@@ -3,6 +3,7 @@
   <br/>
   Jokenpo
 </h1>
+
 ## 📅 Sobre
 
 Pedra, papel e tesoura, do japonês じゃんけんぽん, jankenpon, essa versão é um jogo mobile, onde você joga contra o algoritmo.
