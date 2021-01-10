@@ -17,6 +17,8 @@ Pedra, papel e tesoura, do japonês じゃんけんぽん, jankenpon, essa vers�
 - [Javascript](https://devdocs.io/javascript/)
 - [Node](https://nodejs.org/en/)
 
+*Foram usados outros Frameworks no projeto, mas esses são os principais.*
+
 ## 📱 Executando 
 
 Para executar o projeto é necessário que você tenha o ambiente React Native configurado, você pode seguir esse [GUIA](https://reactnative.dev/docs/environment-setup) para tal.
