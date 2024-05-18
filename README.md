@@ -15,9 +15,6 @@ Pedra, papel e tesoura, do japonês じゃんけんぽん, jankenpon, essa vers�
 ## 🛠 Tecnologias
 - [React Native](https://facebook.github.io/react-native/)
 - [Javascript](https://devdocs.io/javascript/)
-- [Node](https://nodejs.org/en/)
-
-*Foram usados outros, mas esses são os principais.*
 
 ## 📱 Executando 
 
